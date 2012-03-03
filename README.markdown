@@ -1,7 +1,9 @@
 ## Installation
 
-* sudo apt-get install ffmpeg libavcodec-extra-52
-* git clone https://mwicat@github.com/mwicat/httptranscode.git
+```
+sudo apt-get install ffmpeg libavcodec-extra-52
+git clone https://mwicat@github.com/mwicat/httptranscode.git
+```
 
 ## Usage
 
